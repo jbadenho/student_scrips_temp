@@ -74,7 +74,7 @@ Currently LMS is built to run on unix operating systems running a GNOME desktop 
 
 
 #### WSL:
-
+#### Currently only works on Windows 11
 1. Clone repository
 
 ```bash
